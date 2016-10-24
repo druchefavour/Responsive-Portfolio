@@ -1,0 +1,108 @@
+body 
+	{
+    background-color: #F5F5F5;
+    width:960px;
+    }
+#mainHeader
+	{
+		background-color: #ffffff;
+		border-color: #cccccc;
+		height: 80px;
+		font-family: Georgia;
+	}
+#header
+	{
+	background-color: #4aaaa5;
+	float: left;
+	color: white;
+	text-align: center;
+	margin-left: 45px;
+	padding: 5px;
+	}
+
+#BodyHeading
+	{
+	color: #4aaaa5;
+	}
+nav
+	{
+	float: right;
+	margin-right:60px;
+	margin-top: 40px;
+	}
+
+ #mainSection
+	{
+	margin-left: 40px;
+   border-color: #dddddd;
+   width:960px;
+   position: static;
+	}
+#subSection
+	{
+	width:570px;
+	height: 500px;
+	padding-left: 20px;
+	padding-right: 20px; 
+	padding-top: 20px;
+	padding-bottom: 20px;
+ 	background-color: #ffffff;
+	font-family : arial;
+
+	}
+ aside
+	{
+	width:160px;
+	float:left;
+	position: relative;
+	top : -540px;
+	background-color: #ffffff; 
+	padding: 10px;
+	margin-left: 660px;
+	}
+ #privatePic
+	{
+	float: left;
+	width: 140px;
+	height:100px;
+	margin-right: 20px;
+ 	}
+
+ #connect1
+{
+	color: #4aaaa5; 
+}
+ 
+ .connect
+	{
+	width: 40px;
+	height:40px;
+	padding: 5px
+ 	}
+
+.portfolioPic
+	{
+	float: left;
+	width: 160px;
+	height:120px;
+	margin-right: 20px;
+	margin-top: 20px;		
+	}
+
+input[type=submit] 
+{
+    background-color:#4aaaa5;
+    color: white; 
+}
+
+footer
+	{
+	clear: both;
+	border-top: 5px solid #4aaaa5; 
+	background-color: #666666;
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+	position: relative;
+	top : -110px;
+	}
